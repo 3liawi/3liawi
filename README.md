@@ -72,11 +72,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/3liawi/3liawi/output/snake.svg" alt="Snake animation" />
 
 ###
 
